@@ -1,0 +1,5 @@
+SELECT STATUS;
+
+SHOW VARIABLES LIKE '%version%';
+
+SHOW VARIABLES LIKE '%hostname%';
